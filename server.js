@@ -2,7 +2,6 @@
 const readline = require('node:readline');
 const { stdin: input, stdout: output } = require('node:process');
 const { logger } = require('./colorize'); // Import the logger instance
-
 // Uncomment to use a different theme
 logger.setTheme('light'); // Try: 'default', 'dark', 'light', 'vibrant'
 
