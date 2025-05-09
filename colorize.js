@@ -4,6 +4,7 @@
  * A utility library for adding colors and styling to terminal output
  * with an object-oriented API for better developer experience.
  */
+
 // ANSI color and style codes
 const COLORS = {
   // Styles
