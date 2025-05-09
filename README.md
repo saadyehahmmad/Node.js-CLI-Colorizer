@@ -1,9 +1,9 @@
 # Node.js CLI Colorizer
 
 A powerful and customizable library for enhancing command-line interfaces with colorful, styled text output in Node.js applications.
+![image](https://github.com/user-attachments/assets/aeb89e2e-2d5a-4b43-a3c3-c1f9fd3bd189)
+![image](https://github.com/user-attachments/assets/82af00ff-1f4a-472c-b4bf-e29a970167ba)
 
-![image](https://github.com/user-attachments/assets/c75ab977-d173-47f6-a3c4-475a5a45d039)
-![image](https://github.com/user-attachments/assets/77ba1efd-6bae-4447-aa4f-5314848e46d7)
 
 
 
